@@ -1,4 +1,4 @@
-import { useEffect, Suspense } from 'react';
+import { Suspense } from 'react';
 import { Navbar } from 'widgets/Navbar';
 import { Sidebar } from 'widgets/Sidebar';
 import { useTheme } from 'app/providers/ThemeProvider';
